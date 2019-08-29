@@ -1,0 +1,9 @@
+[submodule "app/Models"]
+	path = app/Models
+	url = http://104.248.34.222:7990/scm/hun/models.git
+[submodule "database/migrations"]
+	path = database/migrations
+	url = http://104.248.34.222:7990/scm/hun/migrations.git
+[submodule "app/models"]
+	path = app/models
+	url = http://104.248.34.222:7990/scm/hun/models.git
